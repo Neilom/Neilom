@@ -1,4 +1,4 @@
-### Eai! Me chamo Leonardo e seja bem vindo!🚀
+### Eai! Me chamo Leo e seja bem vindo ao meu Perfil!🚀
 
 <div align="center">
   <a href="https://github.com/Neilom">
@@ -19,7 +19,6 @@
 
   ##
 
-Here are some ideas to get you started:
 
 - 🔭 Trabalho hoje em dia como FullStack (Angular v.12 + NestJs);
 - 🌱 Estou querendo aprender Flutter<img alt="Flutter" height="15" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">;
