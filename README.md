@@ -20,9 +20,7 @@
   ##
 
 
-- 🔭 Trabalho hoje em dia como FullStack (Angular v.12 + NestJs);
-- 🌱 Estou querendo aprender Flutter<img alt="Flutter" height="15" width="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">;
-
+- 🔭 Trabalho hoje em dia como FullStack (Angular v.12 + NodeJS + MongoDB);
 
   <a href = "mailto:leonardox.schmitt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardoschmitt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
